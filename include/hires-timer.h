@@ -1,6 +1,7 @@
 #ifndef HIRES_TIMER_H
 #define HIRES_TIMER_H
 
+#include <stddef.h>
 #include <stdint.h>
 #include <math.h>
 
